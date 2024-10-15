@@ -190,6 +190,7 @@ function kuwo(packages) {
         platform: '酷我',
         version: '0.0.1',
         srcUrl: 'https://raw.githubusercontent.com/joze-w/freeMusicPlugin/refs/heads/main/kuwo.js',
+        appVersion: '>0.0.1-alpha.3',
         cacheControl: 'no-cache',
         async search(query, page, type) {
             if (type === 'music') {
