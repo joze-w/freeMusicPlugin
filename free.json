@@ -2,27 +2,27 @@
     "plugins": [
         {
             "name": "酷狗",
-            "url": "https://github.com/joze-w/freeMusicPlugin/blob/main/kugou.js",
+            "url": "https://raw.githubusercontent.com/joze-w/freeMusicPlugin/refs/heads/main/kugou.js",
             "version": "0.0.1"
         },
         {
             "name": "酷我",
-            "url": "https://github.com/joze-w/freeMusicPlugin/blob/main/kuwo.js",
+            "url": "https://raw.githubusercontent.com/joze-w/freeMusicPlugin/refs/heads/main/kuwo.js",
             "version": "0.0.1"
         },
          {
             "name": "网易",
-            "url": "https://github.com/joze-w/freeMusicPlugin/blob/main/netease.js",
+            "url": "https://raw.githubusercontent.com/joze-w/freeMusicPlugin/refs/heads/main/netease.js",
             "version": "0.0.1"
         },
          {
             "name": "QQ",
-            "url": "https://github.com/joze-w/freeMusicPlugin/blob/main/qq.js",
+            "url": "https://raw.githubusercontent.com/joze-w/freeMusicPlugin/refs/heads/main/qq.js",
             "version": "0.0.1"
         },
          {
             "name": "咪咕",
-            "url": "https://github.com/joze-w/freeMusicPlugin/blob/main/migu.js",
+            "url": "https://raw.githubusercontent.com/joze-w/freeMusicPlugin/refs/heads/main/migu.js",
             "version": "0.0.1"
         }
         
