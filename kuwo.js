@@ -188,8 +188,7 @@ function kuwo(packages) {
 
     return {
         platform: '酷我',
-        version: '0.0.0',
-        appVersion: '>0.0.1-alpha.3',
+        version: '0.0.1',
         srcUrl: 'https://github.com/joze-w/freeMusicPlugin/blob/main/kuwo.js',
         cacheControl: 'no-cache',
         async search(query, page, type) {
