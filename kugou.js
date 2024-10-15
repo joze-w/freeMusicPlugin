@@ -64,7 +64,7 @@ function kugou(packages) {
 
     return {
         platform: '酷狗',
-        version: '0.0.0',
+        version: '0.0.1',
         srcUrl: 'https://github.com/joze-w/freeMusicPlugin/blob/main/kugou.js',
         cacheControl: 'no-cache',
         primaryKey: ['id', 'album_id', 'album_audio_id'],
