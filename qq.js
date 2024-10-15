@@ -390,7 +390,7 @@ function qq(packages) {
     // 接口参考：https://jsososo.github.io/QQMusicApi/#/
     return {
         platform: 'QQ音乐',
-        version: '0.0.2',
+        version: '0.0.1',
         srcUrl: 'https://github.com/joze-w/freeMusicPlugin/blob/main/qq.js',
         cacheControl: 'no-cache',
         async search(query, page, type) {
