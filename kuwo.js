@@ -200,7 +200,7 @@ async function getTopListDetail(topListItem) {
 }
 module.exports = {
     platform: "酷我",
-    version: "0.0.1",
+    version: "0.0.0",
     appVersion: ">0.0.1-alpha.3",
     srcUrl: "https://raw.githubusercontent.com/joze-w/freeMusicPlugin/refs/heads/main/kuwo.js",
     cacheControl: "no-cache",
