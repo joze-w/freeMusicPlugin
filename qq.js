@@ -391,7 +391,7 @@ function qq(packages) {
     return {
         platform: 'QQ音乐',
         version: '0.0.1',
-        srcUrl: 'https://github.com/joze-w/freeMusicPlugin/blob/main/qq.js',
+        srcUrl: 'https://raw.githubusercontent.com/joze-w/freeMusicPlugin/refs/heads/main/qq.js',
         cacheControl: 'no-cache',
         async search(query, page, type) {
             if (type === 'music') {
