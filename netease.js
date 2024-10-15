@@ -377,7 +377,7 @@ function netease(packages) {
 
     return {
         platform: '网易云',
-        version: '0.0.7',
+        version: '0.0.1',
         srcUrl: 'https://github.com/joze-w/freeMusicPlugin/blob/main/netease.js',
         cacheControl: 'no-store',
         async search(query, page, type) {
