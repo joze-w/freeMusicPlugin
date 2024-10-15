@@ -252,7 +252,7 @@ function migu(packages) {
 
   return {
     platform: '咪咕',
-    version: '0.0.3',
+    version: '0.0.1',
     appVersion: ">0.0.1-alpha.10",
     primaryKey: ['id', 'copyrightId'],
     cacheControl: 'no-store',
